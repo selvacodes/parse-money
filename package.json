@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "run:fp": "ts-node fp-1.ts"
+        "run:fp": "ts-node fp-1.ts",
+        "run:fp-static": "ts-node fp-ts2.ts"
     },
     "author": "selva.g",
     "license": "ISC",
